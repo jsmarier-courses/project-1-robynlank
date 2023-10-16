@@ -18,7 +18,7 @@ The URL of your live GitHub Pages site. L'URL de la version en ligne de votre si
 3. I changed the background-colour from whitesmoke to lavenderblush.
 4. I changed the .top-bar position from relative to static.
 5. I changed the .logo font-size from 30px to 40px.
-6. I changed the .logo position from absolute to relative
+6. I changed the .logo position from absolute to relative.
 7. I changed the .logo colour to navy.
 8. I changed the .top menu ul list-style-type from none to square. 
 9. I changed the .top menu li a:link, .top menu li a:visited text decoration to underline navy.
