@@ -11,7 +11,7 @@ body {
 
 .top-bar {
     max-width: 1000px;
-    position: absolute;
+    position: sticky;
     margin-left: auto;
     margin-right: auto;
 }
