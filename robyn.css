@@ -22,7 +22,7 @@ body {
    padding: 0px 0px 0px 20px;
    z-index: 3;
    color: lightskyblue;
-   font-weight: bold;
+   font-weight: lighter;
 }
 
 .top-menu {
@@ -55,7 +55,7 @@ body {
 }
 
 .current-page-link {
-    background-color: #db0e0e;
+    background-color: violet;
 }
 
 .page-content {
@@ -89,7 +89,7 @@ body {
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
-    background-color:#3f3c3c;
+    background-color: lightsalmon;
 }
 
 .footer-content {
