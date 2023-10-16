@@ -20,7 +20,7 @@ body {
    font-size: 40px;
    position: absolute;
    padding: 0px 0px 0px 20px;
-   z-index: 3;
+   z-index: auto;
    color: lightskyblue;
    font-weight: bold;
 }
