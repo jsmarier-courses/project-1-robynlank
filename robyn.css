@@ -30,7 +30,7 @@ body {
    position: absolute;
    top: 85px;
    z-index: 2;
-   width: 100%;
+   width: 100%; 
 }
 
 .top-menu ul {

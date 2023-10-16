@@ -13,7 +13,7 @@ The URL of your live GitHub Pages site. L'URL de la version en ligne de votre si
 
 ##CSS:
 
-1. I changed the body margin from 0 to auto.
+1. I changed the body margin from 0 to auto. 
 2. I changed the body text-colour to darkorchid. 
 3. I changed the background-colour from whitesmoke to lavenderblush.
 4. I changed the .top-bar position from relative to static.
