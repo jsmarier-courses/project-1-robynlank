@@ -1,8 +1,8 @@
 html, body {
-    margin: 0;
+    margin: 25px;
     padding: 0px 0px 0px 0px;
-    font-family: 'Monaco', monospace;
-    color: red;
+    font-family: 'Roboto', sans-serif;
+    color: darkorchid;
 }
 
 body {
