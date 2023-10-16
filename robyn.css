@@ -18,9 +18,9 @@ body {
 
 .logo {
    font-size: 40px;
-   position: absolute;
+   position: relative;
    padding: 0px 0px 0px 20px;
-   z-index: auto;
+   z-index: 3;
    color: lightskyblue;
    font-weight: bold;
 }
