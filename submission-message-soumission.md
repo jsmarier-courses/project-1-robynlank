@@ -19,7 +19,7 @@ The URL of your live GitHub Pages site. L'URL de la version en ligne de votre si
 4. I changed the .top-bar position from relative to static.
 5. I changed the .logo font-size from 30px to 40px.
 6. I changed the .logo position from absolute to relative.
-7. I changed the .logo colour to navy.
+7. I changed the .logo colour to lightskyblue.
 8. I changed the .top menu ul list-style-type from none to square. 
 9. I changed the .top menu li a:link, .top menu li a:visited text decoration to underline navy.
 10. I changed the .top menu li a:link, .top menu li a:visited padding to: 25px, 25px, 25px, 25px
